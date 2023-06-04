@@ -1,5 +1,5 @@
-
 Quick start with the official  HWS  Caputre Card Driver on Linux.
+
 Open a terminal then execute the installation script:
 If your system requires module signing (most distributions):
 $ cd <path-to-package-base-directory>
